@@ -4,7 +4,7 @@ L'échiquier connecté a pour but de permettre aux joueurs de suivre en temps r�
 
 ## Description
 
-L'échiquier connecté est un échiquier créé à la main et équipé de capteurs magnétiques permettant de détecter les pièces équipées d'un aimant sur la planche afin de suivre le déplacement des pièces. L'échiquier est aussi connecté à une application mobile Flutter qui suivra le déplacement des pièces en fonction des mouvements des utilisateurs.
+L'échiquier connecté est un échiquier créé à la main et équipé de capteurs magnétiques permettant de détecter les pièces équipées d'un aimant sur la planche afin de suivre le déplacement des pièces. L'échiquier est aussi connecté à une application mobile Flutter qui suivra le déplfzeacement des pièces en fonction des mouvements des utilisateurs.
 
 ## Fonctionnalités
 
