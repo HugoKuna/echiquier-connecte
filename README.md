@@ -50,7 +50,10 @@ Si une pièce est déplacée le programme va vérifier si la case passe de prise
 
 ### Application Python
 
+On écrit quoi ?
+
 ### Application Flutter
 
+On écrit quoi ?
 
 
